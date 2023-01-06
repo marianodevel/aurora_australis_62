@@ -1,0 +1,21 @@
+@import '~normalize.css';
+
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: 'EB Garamond', serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    
+}
+
+
+footer {
+    font-family: 'EB Garamond', serif;
+}
